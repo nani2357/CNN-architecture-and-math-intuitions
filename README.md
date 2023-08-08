@@ -373,7 +373,7 @@ The above is an example of max pooling with a 2x2 filter and stride of 2. The le
 
 # Practical Intuition with Code Explanation
 
-![](https://github.com/nani2357/CNN-architecture-and-math-intuitions/blob/306d42142af1be0a923eef894b077fd03e9b92ce/Convolutional_Neural_Network_World.ipynb)
+[LINK](https://github.com/nani2357/CNN-architecture-and-math-intuitions/blob/306d42142af1be0a923eef894b077fd03e9b92ce/Convolutional_Neural_Network_World.ipynb)
 
 
 
