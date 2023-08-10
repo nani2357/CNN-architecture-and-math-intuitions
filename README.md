@@ -24,10 +24,16 @@ For example, if we have an image with dimensions 1,000 × 1,000, it will yield 1
 
 ### Fully Connected Neural Net
 
+
 ![title](https://www.researchgate.net/profile/Arvind-Sreenivas/publication/343263135/figure/fig3/AS:918277995905024@1595945943003/Fully-connected-layer.jpg)
 
 
+
+
+
+
 ### Local Connected Neural Net
+
 
 ![title](https://www.cs.toronto.edu/~lczhang/360/lec/w04/imgs/local.png)
 
