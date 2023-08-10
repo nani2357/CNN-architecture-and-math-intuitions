@@ -30,6 +30,8 @@ For example, if we have an image with dimensions 1,000 × 1,000, it will yield 1
 
 
 
+
+
 ### Local Connected Neural Net
 
 
